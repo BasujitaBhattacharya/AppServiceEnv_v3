@@ -1,4 +1,4 @@
-AZURE_LOCATION: 'westus2'
+AZURE_LOCATION: 'canadacentral'
 RESOURCE_NAME_PREFIX: 'asedemo'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-secure-baseline'
